@@ -20,5 +20,5 @@ security risks. Proactive monitoring can help to identify and resolve problems b
 
  <h2>Environments Used </h2>
 
-- <b>Linux Centos 7</b> (21H2)
+- <b>Linux Centos 7</b> 
   
