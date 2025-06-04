@@ -20,5 +20,23 @@ security risks. Proactive monitoring can help to identify and resolve problems b
 
  <h2>Environments Used </h2>
 
-- <b>Linux Centos 7</b> 
+- <b>Linux Centos 7</b>
+
+<h2>Project Tasks</h2>
+
+  <h3>In this project I would like to accomplish 3 tasks</h3>
+
+ <b>Set up a regular system resource monitoring.
+    In this task we want to set up the necessary tools on servers for regular system 
+    resource monitoring.</b>
+
+<b>Implement a Script tp Alert for High Disk Usage.
+    This task is about developing a script the monitors disk usage on our servers, this 
+    is to identifying whether our servers reach a critical level.</b>
+
+<b>Schedule Monthly Performance
+    This task is to use a tool such as sar to make a monthly performance reporting.
+    </br>
+     
+  
   
