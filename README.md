@@ -31,7 +31,7 @@ security risks. Proactive monitoring can help to identify and resolve problems b
     resource monitoring.
 
   <h4>Schedule Monthly Performance</h4>
-    This task is to use a tool such as sar to make a monthly performance reporting.
+    This will examine how to use a tool such as sar to make a monthly performance reporting.
     </br>
      
   
