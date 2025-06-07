@@ -42,7 +42,7 @@ security risks. Proactive monitoring can help to identify and resolve problems b
     <p align="center">We will start by by installing htop and sysstat in our Linux. This is done with the command "sudo yum install top systat". 
      Note: I have already installed these tools.<br/>
  
-     <br />
+     
 
          
 
