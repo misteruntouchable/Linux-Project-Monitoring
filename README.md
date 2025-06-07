@@ -33,6 +33,22 @@ security risks. Proactive monitoring can help to identify and resolve problems b
   <h4>Schedule Monthly Performance</h4>
     This will examine how to use a tool such as sar to make a monthly performance reporting.
     </br>
+
+
+   <h2>Program Walk-Through</h2>
+   <p align="center">
+    Let examine the Top and the Systat Command <br/>
+    <img src="https://imgur.com/EOQ7n7s.png" height="80%" width="80%" "/>
+    <p align="center">We will start by by installing htop and sysstat in our Linux. This is done with the command "sudo yum install top systat". 
+     Note: I have already installed these tools.<br/>
+ 
+     <br />
+
+         
+
+       
+    
+    
      
   
   
